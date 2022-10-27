@@ -1,0 +1,18 @@
+{
+  "name": "belajar-npm",
+  "version": "1.0.0",
+  "description": "Belajar Node Npm",
+  "main": "index.js",
+  "homepage": "https://www.programmerzammannow.com",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "npm",
+    "node",
+    "js"
+  ],
+  "type": "module",
+  "author": "davit hermansyah",
+  "license": "ISC"
+}
