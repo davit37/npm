@@ -2,7 +2,10 @@
   "name": "belajar-npm",
   "version": "1.0.0",
   "description": "Belajar Node Npm",
-  "main": "index.js",
+  "exports": {
+    ".": "./index.js",
+    "./write": "./write.js"
+  },
   "homepage": "https://www.programmerzammannow.com",
   "scripts": {
     "run": "node index.js",
